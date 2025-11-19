@@ -1,12 +1,21 @@
 Nomes,CPFs
-Fernanda Carvalho Castro,051.069.890-51
-Luiz Rocha Ribeiro,359.516.190-41
-Nicolas Ferreira Costa,699.646.950-39
-Rafaela Pereira Ribeiro,921.663.550-99
-Laura Correia Silva,105.945.940-06
-Beatrice Cunha Santos,795.945.460-42
-Kauê Ferreira Correia,965.789.160-40
-Erick Correia Castro,430.358.850-44
-Júlia Araujo Cardoso,527.377.040-81
-Beatriz Pereira Almeida,294.007.450-01
-Estevan Cardoso Ferreira,294.007.450-01
+Beatrice Gomes Silva,671.155.770-05
+Arthur Goncalves Azevedo,611.853.190-00
+Daniel Ribeiro Martins,096.292.780-57
+Kaio Melo Goncalves,903.894.410-15
+Isabelle Almeida Gomes,043.249.610-69
+Anna Silva Melo,630.694.460-51
+Paulo Cavalcanti Barros 197.220.240-51
+Lara Cavalcanti Souza,907.510.570-37
+Rodrigo Oliveira Araujo,686.310.850-06
+Daniel Almeida Barros,275.698.360-81
+
+34.101.371-7
+25.894.066-9
+19.507.748-9
+29.827.576-4
+19.089.884-7
+35.716.970-0
+27.985.154-6
+36.845.090-9
+45.918.707-7
